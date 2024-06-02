@@ -1,0 +1,19 @@
+#soluciones {
+    height: 800px;
+}
+h2 {
+    font-size: 20px;
+    font-family: Roboto;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.potencial {
+    font-size: 40px;
+    font-family: Roboto;
+    text-align: center;
+}
+.serv {
+    display: grid;
+    grid-template-columns: gap:100px;    
+}

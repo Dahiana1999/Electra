@@ -1,0 +1,38 @@
+#section1 {
+  background-color: rgba(23, 20, 25, 1);
+  height: 90px;
+  border-top: 0px;
+}
+#img {
+  text-align: left;
+  padding-top: 16px;
+  max-height: 31px;
+  max-width: 150px;
+}
+.nav {
+  text-align: right;
+  padding-top: 0px;
+  margin-top: 0px;
+  border-top: 0px;
+  margin-right: 25px;
+}
+.nav__li {
+  display: inline-block;
+  padding: 12px;
+  color: #fff;
+  font-family: Inter;
+  font-weight: bold;
+  
+}
+
+.nav__li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav__li:hover > a {
+  color: hsl(110, 4%, 28%);
+}
+.nav__li:hover {
+  color: hsl(110, 4%, 28%);
+}
