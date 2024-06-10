@@ -1,0 +1,83 @@
+#presentacion {
+  background-color: rgba(72, 3, 137, 1);
+  display: flex;
+  height: 859px;
+}
+h1 {
+  margin-left: 20%;
+  color: aliceblue;
+  margin-top: 10%;
+  font-size: 50px;
+}
+.h {
+  font-family: Roboto;
+}
+.text {
+  font-family: Roboto;
+}
+.p1 {
+  font-family: Roboto;
+  font-size: 30px;
+}
+.EMPEZAR {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+
+}
+#img2 {
+  width: 520px;
+  height: 509px;
+  display: flex;
+  justify-content:right; 
+  padding-right: 10%;
+  margin-left: 20%;
+  padding-top: 100px;  
+}
+
+
+#imagencentrada {
+  display: flex;
+  justify-content: center;
+}
+
+.Pres{
+    text-align: center;
+    font-family: Roboto;
+    font-size: smaller;
+    font-size: 20px;
+}
+.p2{
+    text-align: center;
+    font-family: Roboto;
+    font-size:x-large;
+    font-size: 30px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+#Consulta {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.CONSULTA{
+    background-color: rgba(72, 3, 137, 1);
+    color: aliceblue;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: bold;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 40px;
+    border-radius: 5px;
+}
+
+    

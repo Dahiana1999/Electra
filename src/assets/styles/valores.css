@@ -1,0 +1,42 @@
+#valores {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+#juntos{
+    background-color: rgba(72, 3, 137, 1);
+}
+h3 {
+    color: ghostwhite;
+    font-family: Roboto;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+h4 {
+    color: ghostwhite;
+    font-family: Roboto;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 20px;
+}
+#contacto{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.Contacto {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 16px;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 40px;
+    border-radius: 5px;
+    margin-bottom: 40px;
+}
